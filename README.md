@@ -14,4 +14,4 @@ O projeto consiste em dois módulos: uma classe em C++ destinada à interpretaç
 Os sistemas de escultura tridimensional prevêem alguns tipos de formas geométricas simples que poderão ser usadas pelo usuário para pintar e deverão ser implementadas no projeto.</br>
 
 # Exemplo de Figura
-![Imagem](https://github.com/JeremiasBezerra/Escultura_Digital-Figura_Geometrica/blob/main/Exemplos%20de%20figuras/Exemplo%20de%20figura%2002.png)
+![Imagem](https://github.com/JeremiasBezerra/Escultura_Digital-Figura_Geometrica/blob/main/Exemplos%20de%20figuras/Exemplo%20de%20figura%2001.png)
